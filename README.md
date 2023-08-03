@@ -1,4 +1,4 @@
-#name of folder, can be any name(inside terminal)
+# name of folder, can be any name(inside terminal)
 1. mkdir llms
 2. cd llms
 #create virtual environment, second venv is the name of folder, can be any name
