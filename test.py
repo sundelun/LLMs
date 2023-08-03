@@ -13,7 +13,6 @@ import io
 def main():
   load_dotenv()
 
-  # locale.setlocale(locale.LC_ALL, 'zh_CN')
   st.set_page_config(page_title="CSV Knowledge base")
   st.header("CSV knowledge base")
   # Upload files
